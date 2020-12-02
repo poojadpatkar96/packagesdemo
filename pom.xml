@@ -72,7 +72,7 @@
    <repository>
      <id>github</id>
      <name>GitHub poojadpatkar Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/poojadpatkar96/packagesdemo/url>
+     <url>https://maven.pkg.github.com/poojadpatkar96/packagesdemo</url>
    </repository>
   </distributionManagement>
 
