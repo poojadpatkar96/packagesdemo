@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.packagesdemo</groupId>
   <artifactId>packagesdemo</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <name>JavaTestDemo</name>
   <packaging>jar</packaging>
   <description>This is Java Testing Demo</description>
